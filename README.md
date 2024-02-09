@@ -45,3 +45,7 @@
 - tag: tag
 
 ## FLEX BOX LAYOUT
+
+
+![mmirwda](https://github.com/sam5491/job_page_clone/assets/69792128/99a84279-9731-475a-8f83-6226063c8f7b)
+

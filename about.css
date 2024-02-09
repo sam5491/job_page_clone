@@ -1,0 +1,14 @@
+.flextest
+{
+    background-color: rgb(153, 219, 226);
+    display: flex;
+    justify-content:baseline;
+  }
+  .flextest div
+{
+  background-color:aliceblue;
+  width: 38px;
+  height: 38px;
+  margin: 18px;
+ justify-content:center;
+  }

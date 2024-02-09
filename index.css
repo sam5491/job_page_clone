@@ -1,0 +1,34 @@
+#section1 {
+  text-align: center;
+}
+#button1 {
+  background-color: aqua;
+  border-radius: 10px;
+  border-radius: 20px;
+  padding: 10px 10px;
+  cursor: pointer;
+}
+#button1:hover {
+    background-color: rgb(153, 219, 226);
+  }
+#button2 {
+  background-color: #000000;
+  border-radius: 20px;
+  border: 2px rgb(108, 64, 152) solid;
+  color: white;
+  padding: 10px 10px;
+  
+  cursor: pointer;
+}
+
+#button2:hover {
+    background-color: rgb(108, 64, 152);
+  }
+div {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+span {
+  align-items: center;
+}
